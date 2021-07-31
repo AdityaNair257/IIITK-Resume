@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Aditya Nair",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020kucp1078@iiitkota.ac.in",
+		"phone": "+918657287139",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I am a 2nd year CSE student at IIIT Kota.",
+		"location": {
+			"address": "---",
+			"postalCode": "---",
+			"city": "Mumbai",
+			"countryCode": "India",
+			"region": "Maharashtra"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "Adityanair257",
+				"url": "https://www.github.com/AdityaNair257"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "adityanair257",
+				"url": "https://instagram.com/adityanair257"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript","Java", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Volleyball", "Badminton", "Football"]
+	}],
+}
