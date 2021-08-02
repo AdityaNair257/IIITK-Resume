@@ -2,32 +2,22 @@
 	"basics": {
 		"name": "Aditya Nair",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "",
 		"email": "2020kucp1078@iiitkota.ac.in",
 		"phone": "+918657287139",
-		"website": "---Enter Link of website(if any) ---",
+		"website": "",
 		"summary": "I am a 2nd year CSE student at IIIT Kota.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
+			"address": "",
+			"postalCode": "",
 			"city": "Mumbai",
 			"countryCode": "India",
 			"region": "Maharashtra"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
 				"network": "Github",
 				"username": "Adityanair257",
 				"url": "https://www.github.com/AdityaNair257"
-			},
-			{
-				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
 			},
 			{
 				"network": "Instagram",
@@ -41,8 +31,8 @@
 		"area": "Engineering",
 		"studyType": "B-Tech",
 		"startDate": "2020-12-08",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"endDate": "",
+		"gpa": "",
 		"courses": [
 			"Computer Science & Engineering"
 		]
